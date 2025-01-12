@@ -39,7 +39,7 @@ Classical methods proved effective for segmenting the heart region, although pre
 ## Example Outputs
 
 ### Heart detection using classical methods:
-![Heart Segmentation Result](./images/)
+![Heart Segmentation Result](./images/detected_heart_with_contours.png)
 
 
 ## Future Development
