@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 # Wczytaj obraz w odcieniach szarości
-image_path = './images/chest-ray.jpg'
+image_path = './images/chest-ray4.jpg'
 image = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
 
 if image is None:
